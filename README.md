@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+<img src="https://thecollege.syr.edu/static/img/arts-sciences-S.svg" width="500" height="121" alt="Photo of 3 cats"> <img src="https://static.wixstatic.com/media/655c84_a2e2f419d8ca40689751e58e2b0f1a6e~mv2.png/v1/fill/w_257,h_318,al_c,q_85/SPSLOGOOFFICIALBYSHANEPRYAN.webp" width="200" height="220" alt="Photo of 3 cats"> 
 
-You can use the [editor on GitHub](https://github.com/syrunivsps/syrunivsps.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Syracuse University Chapter of The Society of Physics Students (SUSPS)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SU SPS strives to enrich the undergraduate experience of its members and help them prepare for careers in physics or related fields. We organize several academic events, such as undergraduate-level faculty talks, group study sessions, review sessions for first-year physics courses, and visits to nearby universities to tour their physics departments. We organize several outreach activities as well, having participated in numerous science fairs by judging or doing physics demonstrations, and we have made several visits to local high schools to talk about the value and versatility of an undergraduate degree in physics. We also organize a wide range of social activities, including potlucks, movie nights, barbecues, and many others. Other information about our club: - We welcome anyone with an interest in physics, not just physics majors - Membership is completely free! - Participation in all of our events is free as well!. It's important to us that none of our members be limited in their participation by financial issues.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syrunivsps/syrunivsps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
