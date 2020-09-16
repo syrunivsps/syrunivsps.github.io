@@ -1,6 +1,6 @@
 # Welcome to the Syracuse University SPS github repo!
 
-To visit the webpage go to https://syruniv.sps.github.io
+To visit the webpage go to https://syrunivsps.github.io
 
 If you are here to edit the webpage then please create a new branch and test
 changes before merging/comitting to master
