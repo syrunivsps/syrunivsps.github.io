@@ -16,6 +16,7 @@ To do:
 2) Member List
 3) Lectures
 4) Upcoming Events
+5) Fire Michael
 
 
 
