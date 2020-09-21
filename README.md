@@ -11,5 +11,11 @@ changes before merging/comitting to master
 2. github pages
 3. Do's and Don't relevant to SPS
 
+To do: 
+1) E-board
+2) Member List
+3) Lectures
+4) Upcoming Events
+
 
 
