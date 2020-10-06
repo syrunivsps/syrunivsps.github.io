@@ -527,6 +527,10 @@
 			.icon.rounded.fa-rss {
 				background-color: #f2600b;
 			}
+			.icon.rounded.fa-instagram {
+				background: #125688;
+				color: white;
+			}
 
 /* Image */
 
@@ -1031,7 +1035,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url(../images/dark_tint.png), url(../images/bokeh_car_lights_bg.jpg);
+		background-image: url(../images/dark_tint.png), url(../images/JellyFishNebula.jpg);
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
